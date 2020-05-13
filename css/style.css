@@ -82,10 +82,11 @@ body {
 }
 
 .heading-primary-sub {
-    display: block;
     font-size: 2rem;
     font-weight: 400;
     letter-spacing: 1.75rem;
+    
+    display: block;
     margin-bottom: 6rem;
 
     animation-name: moveInRight;
