@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dsmith39/tour-website-example/issues"
   },
-  "homepage": "https://github.com/dsmith39/tour-website-example#readme"
+  "homepage": "https://github.com/dsmith39/tour-website-example#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
 }
